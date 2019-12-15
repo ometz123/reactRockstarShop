@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+.App-logo {
+  height: 40vmin;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+.App-link {
+  color: #09d3ac;
+}
+.list-group-item{
+  background-color:rgb(67, 118, 155)
+}
+.bg-info{
+  width: 100%;
+}
+.text-muted{
+  margin-top: -50px;
+}
+#cart{
+  min-width: 275px;
+}
+.col-lg-8,.col-lg-4{
+  margin-top: 20px;
+}
+#mycard{
+  background-color: black;
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center; 
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
